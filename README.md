@@ -1,2 +1,2 @@
-Introduction C++. 
-Introduction to computer programming. 
+Introduction to C++. 
+
